@@ -1,0 +1,46 @@
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+.idea
+node_modules
+wb_79709fa0eac3d72d.txt
+tc_verify.txt
+sogousiteverification.txt
+silian.txt
+shenma-site-verification.txt
+scanv.html
+root.txt
+hello51la64v93w6c22sh2gqz.html
+googlefabe3b86ab8abb32.html
+e368ea1b2b886bd9464d07cd6f1acfb0.html
+dddddd.html
+bf4fb692404057f2136b609988d99212.html
+chinadmoz.txt
+BingSiteAuth.xml
+bdunion.txt
+baidu_verify_ByQHSIHLzM.html
+85fe4b83842c46068413c363f308b4c3.html
+7dc2a8743416037c88614977ff285ed8.txt
+3f390bebda2d9563e733a9c9f7223a8b.html
+2y3wgR44dA9zyvLlxPk8sExNXyA.html
+2eaa9c900957409.html
