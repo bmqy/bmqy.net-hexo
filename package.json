@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.3.7"
+    "version": "3.7.1"
   },
   "dependencies": {
     "hexo": "^3.3.7",
@@ -41,13 +41,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmqy/bmqy.github.com.git"
+    "url": "git+https://github.com/bmqy/bmqy.net-hexo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bmqy/bmqy.github.com/issues"
+    "url": "https://github.com/bmqy/bmqy.net-hexo/issues"
   },
-  "homepage": "https://github.com/bmqy/bmqy.github.com#readme",
+  "homepage": "https://github.com/bmqy/bmqy.net-hexo#readme",
   "description": ""
 }

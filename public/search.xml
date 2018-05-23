@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[vscode软件窗口标题栏显示文件完整路径]]></title>
+    <url>%2F23612.html</url>
+    <content type="text"><![CDATA[vscode编辑器窗口标题默认就显示个文件名字，按以下设置即可显示文件完整路径：菜单栏：“文件”→“首选项”→“设置”，进入用户配置界面；在软件默认的配置界面搜索关键字 “window.title”，将这一行配置复制到右边的用户配置界面中，并将 “activeEditorShort” 修改为 “activeEditorLong”；保存后，再编辑文件时，软件窗口的标题栏上就可以看到当前文件的完整路径了。摘自： http://iot-fans.xyz/2017/10/23/vscode/long-title/]]></content>
+      <categories>
+        <category>燕衔春泥</category>
+      </categories>
+      <tags>
+        <tag>vscode</tag>
+        <tag>标题栏完整路径</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[微信小程序“支付签名验证失败”问题的解决参考]]></title>
     <url>%2F35202.html</url>
     <content type="text"><![CDATA[官方文档如下：验证失败的原因官方文档少列出一个字段变量：appId；字段变量名大小写错误；nonce_str：随机字符串取值错误；排除以上问题后基本，就可以正常使用了。]]></content>
@@ -1279,18 +1291,6 @@
         <tag>就止一张</tag>
         <tag>懒</tag>
         <tag>简单</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[早早地一轮红日]]></title>
-    <url>%2F36276.html</url>
-    <content type="text"><![CDATA[可惜没拍好，眼看着感觉挺好的，太阳挺圆的、挺近的，但是进了俺的相机后，……为什么这么小了，严重破坏了眼中的美感。]]></content>
-      <categories>
-        <category>燕美清照</category>
-      </categories>
-      <tags>
-        <tag>一轮红日</tag>
-        <tag>早早地</tag>
       </tags>
   </entry>
 </search>
