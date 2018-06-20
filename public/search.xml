@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[一键收取熊猫守护者威力值]]></title>
+    <url>%2F17585.html</url>
+    <content type="text"><![CDATA[一键收取熊猫守护者威力值workflow规则熊猫守护者，刷微博，种竹子，保护大熊猫栖息地一款微博出品的类似支付宝种树的小游戏。本《熊猫守护者》workflow规则支持一键收取威力值：普通版：仅支持一键收取自身的威力值， 点击安装高级版：支持一键收取自身、好友和粉丝的威力值， 点击安装；注：高级版需要输入口令后可使用，口令每天在QQ群663099879内公布，群成员输入自己QQ号码即可，无需输入口令。]]></content>
+      <categories>
+        <category>燕坊清作</category>
+      </categories>
+      <tags>
+        <tag>bmqy</tag>
+        <tag>熊猫守护者</tag>
+        <tag>workflow</tag>
+        <tag>一键收取威力值</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[vscode软件窗口标题栏显示文件完整路径]]></title>
     <url>%2F23612.html</url>
     <content type="text"><![CDATA[vscode编辑器窗口标题默认就显示个文件名字，按以下设置即可显示文件完整路径：菜单栏：“文件”→“首选项”→“设置”，进入用户配置界面；在软件默认的配置界面搜索关键字 “window.title”，将这一行配置复制到右边的用户配置界面中，并将 “activeEditorShort” 修改为 “activeEditorLong”；保存后，再编辑文件时，软件窗口的标题栏上就可以看到当前文件的完整路径了。摘自： http://iot-fans.xyz/2017/10/23/vscode/long-title/]]></content>
@@ -1278,19 +1292,6 @@
       <tags>
         <tag>不语风月</tag>
         <tag>仰望天空</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[就止一张]]></title>
-    <url>%2F56795.html</url>
-    <content type="text"><![CDATA[虽然、一天就止拍了一张，但是、既然拍了，就得分享出来，既然、要分享出来，那么、就得修饰一下，既然、要修饰，那只能简单修饰下了，开始、裁剪、搞定，懒、就要这么简单。]]></content>
-      <categories>
-        <category>燕美清照</category>
-      </categories>
-      <tags>
-        <tag>就止一张</tag>
-        <tag>懒</tag>
-        <tag>简单</tag>
       </tags>
   </entry>
 </search>
